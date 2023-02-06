@@ -9,6 +9,6 @@ entries:
     name: hrm-chart
     type: application
     urls:
-    - hhttps://github.com/HuyTTBakco/Helm-chart/hrm-chart-0.1.0.tgz
+    - https://github.com/HuyTTBakco/Helm-chart/hrm-chart-0.1.0.tgz
     version: 0.1.0
 generated: "2023-02-06T15:43:16.3164902+07:00"
